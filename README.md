@@ -9,7 +9,6 @@ I am currently enrolled in a comprehensive fullstack web development bootcamp wh
 This repository will contain:
 
 . Practice exercises 💻
-
 . Mini projects 🛠
 
 ✅ Progress Update
@@ -20,12 +19,9 @@ I have successfully completed the HTML section of the bootcamp 🎉
 
 📚 What I Learned:
 
-. Structure of a webpage (<!DOCTYPE html>, <html>, <head>, <body>)
-
-. Semantic HTML elements (<header>, <section>, <article>, <footer>)
-
+. Structure of a webpage 
+. Semantic HTML elements 
 . Working with text, lists, and links
-
 . Adding images 
 
 . Accessibility basics
