@@ -29,3 +29,18 @@ I have successfully completed the HTML section of the bootcamp 🎉
 . Adding images 
 
 . Accessibility basics
+
+**📌 Progress Update**
+
+I’ve successfully completed the CSS Module in my Fullstack Web Developer Bootcamp journey. This stage focused on styling web pages, creating responsive layouts, and improving user experience through design.
+
+**🚀 What I Learned in CSS**
+. CSS Syntax & Selectors
+. Colors, Backgrounds & Gradients
+. Fonts & Typography
+. Box Model (margin, padding, border)
+. Display Properties
+. Positioning (relative, absolute, fixed)
+. Flexbox Layout
+. CSS Grid
+. Bootstrap
