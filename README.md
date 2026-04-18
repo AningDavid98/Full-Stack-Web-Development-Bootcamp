@@ -36,11 +36,19 @@ I’ve successfully completed the CSS Module in my Fullstack Web Developer Bootc
 
 **🚀 What I Learned in CSS**
 . CSS Syntax & Selectors
+
 . Colors, Backgrounds & Gradients
+
 . Fonts & Typography
+
 . Box Model (margin, padding, border)
+
 . Display Properties
+
 . Positioning (relative, absolute, fixed)
+
 . Flexbox Layout
+
 . CSS Grid
+
 . Bootstrap
